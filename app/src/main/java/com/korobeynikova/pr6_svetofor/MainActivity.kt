@@ -15,6 +15,7 @@ class MainActivity : AppCompatActivity() {
 
     private var currentColorIndex = 0
 
+
     companion object {
         private const val CURRENT_COLOR_INDEX_KEY = "currentColorIndex"
     }
